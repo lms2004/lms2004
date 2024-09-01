@@ -45,4 +45,36 @@ width="800"  height="3">
 ![](https://github-immortality.vercel.app/api?username=lms2004)
 
 [![lms2004's github stats](https://github-readme-stats.vercel.app/api?username=lms2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=lms2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2004&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme
+[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2004&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2004&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+
+[![snake](https://raw.githubusercontent.com/lms2004/lms2004/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/lms2004/lms2004/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
+
+</div>
+
+</details>
+
+### 🏊 更多仓库
+
+<details open>
+<summary>点击展开 ...</summary>
+
+|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
+| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| [minnow](https://github.com/lms2004/minnow)            | ![](https://img.shields.io/github/stars/lms2004/minnow?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/minnow?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 轻量级TCP协议栈实现 |
+| [csapp](git@github.com:lms2004/csapp.git)              | ![](https://img.shields.io/github/stars/lms2004/csapp?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/csapp?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | CSAPP体系结构课程作业 |
+
+</details>
+
+### 📝 博客最近更新
+
+<details open>
+<summary>点击展开 ...</summary>
+
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+更多内容直接点击：[https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343)
+
+</details>
