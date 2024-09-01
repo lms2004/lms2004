@@ -25,6 +25,6 @@ jobs:
           git add README.md
           git commit -m "Updated with the latest blog posts"
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://<your-username>:${{ secrets.PAT_TOKEN }}@github.com/<your-username>/<your-repository>.git
+          git push origin main
