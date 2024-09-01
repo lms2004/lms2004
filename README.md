@@ -14,11 +14,14 @@ width="800"  height="3">
 🎓 Study
 I'm currently involved in MIT's Missing Semester course.
 
-I'm studying CS
-(Computer Systems: A Programmer's Perspective).
+I'm studying CS (Computer Systems: A Programmer's Perspective).
 
 🎮 Hobbies
-I enjoy playing games like PUBG, Battlefield, and Black Myth: Wukong.
+I am currently playing games like PUBG, Battlefield, and Black Myth: Wukong.
+Add me as a Steam friend(Steam Profile.):
+https://steamcommunity.com/profiles/76561199515626584/    
+
+I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 
 ### 🤗 Welcome
 
