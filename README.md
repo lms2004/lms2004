@@ -86,6 +86,6 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 - 💯 [C++入门](https://blog.csdn.net/2301_79140115/article/details/141689252) 
 <!-- BLOG-POST-LIST:END -->
 
-More Details：[https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_79140115)
+More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
 
 </details>
