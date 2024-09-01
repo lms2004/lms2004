@@ -9,19 +9,19 @@ width="800"  height="3">
 
 </div>
 
-<img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
-
-🎓 Study
-I'm currently involved in MIT's Missing Semester course.
-
+<h2>🎓 Study</h2>
+<p style="font-size: 18px;">
+I'm currently involved in MIT's Missing Semester course.<br>
 I'm studying CS (Computer Systems: A Programmer's Perspective).
+</p>
 
-🎮 Hobbies
-I am currently playing games like PUBG, Battlefield, and Black Myth: Wukong.
-Add me as a Steam friend(Steam Profile.):
-https://steamcommunity.com/profiles/76561199515626584/    
-
+<h2>🎮 Hobbies</h2>
+<p style="font-size: 18px;">
+I am currently playing games like PUBG, Battlefield, and Black Myth: Wukong.<br>
+Add me as a Steam friend: <a href="https://steamcommunity.com/profiles/76561199515626584/">Steam Profile</a>.<br>
 I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
+</p>
+
 
 ### 🤗 Welcome
 
