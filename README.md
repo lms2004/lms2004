@@ -29,7 +29,7 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 [![Mail Badge](https://img.shields.io/badge/-llms26@bupt.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llms26@bupt.edu.cn)](mailto:llms26@bupt.edu.cn)
 [![](https://img.shields.io/github/stars/lms2004?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=lms2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/lms2004?color=27da6b&logo=Handshake)](https://github.com/lms2004?tab=followers)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-CSDN博客-d7b1bf?logo=Blogger)](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-CSDN博客-d7b1bf?logo=Blogger)](https://blog.csdn.net/2301_79140115)
 
 ### 🧰 Languages & Tools
 
@@ -86,6 +86,6 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 - 💯 [C++入门](https://blog.csdn.net/2301_79140115/article/details/141689252) 
 <!-- BLOG-POST-LIST:END -->
 
-More Details：[https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343)
+More Details：[https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_79140115)
 
 </details>
