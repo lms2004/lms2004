@@ -11,11 +11,14 @@ width="800"  height="3">
 
 <img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
 
-I'm currently involved in MIT's Missing Semester course 
+🎓 Study
+I'm currently involved in MIT's Missing Semester course.
 
-I'm currently studying CS   (Computer Systems: A Programmer's Perspective).
+I'm studying CS
+(Computer Systems: A Programmer's Perspective).
 
-
+🎮 Hobbies
+I enjoy playing games like PUBG, Battlefield, and Black Myth: Wukong.
 
 ### 🤗 Welcome
 
