@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
 
-
-
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
 width="800"  height="3">
 
@@ -27,18 +25,16 @@ width="800"  height="3">
 
 ### 🤗 欢迎来访
 
-
-[![](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)](https://visitor-badge.laobi.icu/badge?page_id=eryajf.eryajf)
-[![Mail Badge](https://img.shields.io/badge/-eryajf@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:eryajf@163.com)
-[![](https://img.shields.io/github/stars/eryajf?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/eryajf?color=27da6b&logo=Handshake)](https://github.com/eryajf?tab=followers)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E4%BA%8C%E4%B8%AB%E8%AE%B2%E6%A2%B5-d7b1bf?logo=Blogger)](https://wiki.eryajf.net)
-[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
-
+[![](https://visitor-badge.laobi.icu/badge?page_id=lms2004.lms2004)](https://visitor-badge.laobi.icu/badge?page_id=lms2004.lms2004)
+[![Mail Badge](https://img.shields.io/badge/-llms26@bupt.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:llms26@bupt.edu.cn)](mailto:llms26@bupt.edu.cn)
+[![](https://img.shields.io/github/stars/lms2004?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=lms2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/followers/lms2004?color=27da6b&logo=Handshake)](https://github.com/lms2004?tab=followers)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-CSDN博客-d7b1bf?logo=Blogger)](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343)
+[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/lms2004/awesome-stars-lms2004#readme)
 
 ### 🧰 语言工具
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress&theme=light)](https://github.com/eryajf)
+[![My Skills](https://skillicons.dev/icons?i=cplusplus,rust,python,github,git,vscode,docker,linux&theme=light)](https://github.com/lms2004)
 
 ### 💻 Stats
 
@@ -47,15 +43,12 @@ width="800"  height="3">
 
 <div align="center">
 
-![](https://github-immortality.vercel.app/api?username=eryajf)
+![](https://github-immortality.vercel.app/api?username=lms2004)
 
-[![二丫讲梵's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+[![lms2004's github stats](https://github-readme-stats.vercel.app/api?username=lms2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=lms2004&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2004&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2004&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
-<!-- [![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8) -->
-
-[![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
-
+[![snake](https://raw.githubusercontent.com/lms2004/lms2004/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/lms2004/lms2004/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -68,48 +61,10 @@ width="800"  height="3">
 
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
-| [shellabout](https://github.com/eryajf/shellabout) | ![](https://img.shields.io/github/stars/eryajf/shellabout?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/shellabout?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一些值得珍藏的脚本  |
-| [magic-of-kubernetes-scripts](https://github.com/eryajf/magic-of-kubernetes-scripts) | ![](https://img.shields.io/github/stars/eryajf/magic-of-kubernetes-scripts?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/magic-of-kubernetes-scripts?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一键部署k8s-1.10.4高可用集群  |
-| [magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) | ![](https://img.shields.io/github/stars/eryajf/magic-of-sysuse-scripts?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/magic-of-sysuse-scripts?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 运维外挂，运维脚本的新角度  |
-| [care-screenshot](https://github.com/eryajf/care-screenshot) | ![](https://img.shields.io/github/stars/eryajf/care-screenshot?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/care-screenshot?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 将你关心的网页元素截图发给机器人  |
-| [rpmbuild](https://github.com/eryajf/rpmbuild) | ![](https://img.shields.io/github/stars/eryajf/rpmbuild?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/rpmbuild?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 整理工作中常用的RPM构建spec  |
-| [learning-weekly](https://github.com/eryajf/learning-weekly) | ![](https://img.shields.io/github/stars/eryajf/learning-weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/learning-weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习周刊，开源项目,优秀博客  |
-| [xirang](https://github.com/eryajf/xirang) | ![](https://img.shields.io/github/stars/eryajf/xirang?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架后端  |
-| [xirang-ui](https://github.com/eryajf/xirang-ui) | ![](https://img.shields.io/github/stars/eryajf/xirang-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/xirang-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 简单好用，直接上手的go-web框架前端  |
-| [eryajf.github.io](https://github.com/eryajf/eryajf.github.io) | ![](https://img.shields.io/github/stars/eryajf/eryajf.github.io?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf.github.io?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 当前博客全部源码  |
-| [Obsidian-Plugin-Weekly](https://github.com/eryajf/Obsidian-Plugin-Weekly) | ![](https://img.shields.io/github/stars/eryajf/Obsidian-Plugin-Weekly?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Obsidian-Plugin-Weekly?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📝 Obsidian插件周刊  |
-| [ldapctl](https://github.com/eryajf/ldapctl) | ![](https://img.shields.io/github/stars/eryajf/ldapctl?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/ldapctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | OpenLDAP Controller  |
-| [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | ![](https://img.shields.io/github/stars/eryajf/Thanks-Mirror?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/Thanks-Mirror?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 各个包管理器，系统镜像，以及常用软件的镜像  |
-| [go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
-| [go-ldap-admin](https://github.com/eryajf/go-ldap-admin) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于Go+Vue实现的openLDAP后台管理项目  |
-| [go-ldap-admin-doc](https://github.com/eryajf/go-ldap-admin-doc) | ![](https://img.shields.io/github/stars/eryajf/go-ldap-admin-doc?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/go-ldap-admin-doc?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap-admin项目官方文档  |
-| [third-tools](https://github.com/eryajf/third-tools) | ![](https://img.shields.io/github/stars/eryajf/third-tools?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/third-tools?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 Go三方工具简单入门使用合集  |
-| [read-list](https://github.com/eryajf/read-list) | ![](https://img.shields.io/github/stars/eryajf/read-list?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/read-list?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优质内容订阅，阅读方为根本  |
-| [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) | ![](https://img.shields.io/github/stars/eryajf/HowToStartOpenSource?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/HowToStartOpenSource?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | GitHub开源项目维护指南  |
-| [vdoing-template](https://github.com/eryajf/vdoing-template) | ![](https://img.shields.io/github/stars/eryajf/vdoing-template?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/vdoing-template?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  vdoing博客主题模板   |
-| [awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) | ![](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-github-profile-readme-chinese?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🦩 优秀的中文区个人主页搜集  |
-| [awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) | ![](https://img.shields.io/github/stars/eryajf/awesome-stars-eryajf?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-stars-eryajf?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🤩 我的star列表，每天凌晨自动更新  |
-| [recommend-actions](https://github.com/eryajf/recommend-actions) | ![](https://img.shields.io/github/stars/eryajf/recommend-actions?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/recommend-actions?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的GitHub Actions推荐  |
-| [awesome-navigation](https://github.com/eryajf/awesome-navigation) | ![](https://img.shields.io/github/stars/eryajf/awesome-navigation?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-navigation?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 优秀的导航项目以及导航站合集  |
-| [ldapool](https://github.com/eryajf/ldapool) | ![](https://img.shields.io/github/stars/eryajf/ldapool?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/ldapool?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | go-ldap库的连接池实现  |
-| [gojenkins](https://github.com/eryajf/gojenkins) | ![](https://img.shields.io/github/stars/eryajf/gojenkins?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gojenkins?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | fork自gojenkins,增加了很多功能  |
-| [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-dingtalk?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-dingtalk?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | chatGPT机器人在钉钉群聊中交互  |
-| [emotion_generate](https://github.com/eryajf/emotion_generate) | ![](https://img.shields.io/github/stars/eryajf/emotion_generate?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/emotion_generate?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Artalk评论系统的表情包  |
-| [awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) | ![](https://img.shields.io/github/stars/eryajf/awesome-chatgpt-answer?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-chatgpt-answer?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🙋 问得好，🗣 答得妙。  |
-| [eryajf-dockerfile](https://github.com/eryajf/eryajf-dockerfile) | ![](https://img.shields.io/github/stars/eryajf/eryajf-dockerfile?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajf-dockerfile?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🏺 个人常用的Docker镜像汇总  |
-| [eryajfctl](https://github.com/eryajf/eryajfctl) | ![](https://img.shields.io/github/stars/eryajf/eryajfctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/eryajfctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 基于Cobra库快速打造类似kubectl一样的命令行工具箱 🧰  |
-| [cloudctl](https://github.com/eryajf/cloudctl) | ![](https://img.shields.io/github/stars/eryajf/cloudctl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloudctl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀 与公有云等交互的命令行工具 🧰  |
-| [chatgpt-wecom](https://github.com/eryajf/chatgpt-wecom) | ![](https://img.shields.io/github/stars/eryajf/chatgpt-wecom?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/chatgpt-wecom?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 💬 基于GO语言实现的体验最好的企微应用集成ChatGPT项目 🚀  |
-| [gitlabCodeSearch](https://github.com/eryajf/gitlabCodeSearch) | ![](https://img.shields.io/github/stars/eryajf/gitlabCodeSearch?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/gitlabCodeSearch?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🔎 使用关键字搜索所有gitlab项目 |
-| [awesome-ops](https://github.com/eryajf/awesome-ops) | ![](https://img.shields.io/github/stars/eryajf/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
-| [promwrite](https://github.com/eryajf/promwrite) | ![](https://img.shields.io/github/stars/eryajf/promwrite?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/promwrite?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📹 Prometheus Remote Write GO 库 |
-| [glactl](https://github.com/eryajf/glactl) | ![](https://img.shields.io/github/stars/eryajf/glactl?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/glactl?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🛠 go-ldap-admin 项目对应的IM测试工具 |
-| [langchaingo-ollama-rag](https://github.com/eryajf/langchaingo-ollama-rag) | ![](https://img.shields.io/github/stars/eryajf/langchaingo-ollama-rag?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/langchaingo-ollama-rag?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📖学习基于langchaingo结合ollama实现的rag应用流程 |
-| [cloud_dns_exporter](https://github.com/eryajf/cloud_dns_exporter) | ![](https://img.shields.io/github/stars/eryajf/cloud_dns_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/cloud_dns_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息。 |
+| [minnow](https://github.com/lms2004/minnow)            | ![](https://img.shields.io/github/stars/lms2004/minnow?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/minnow?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 轻量级TCP协议栈实现 |
+| [csapp](git@github.com:lms2004/csapp.git)              | ![](https://img.shields.io/github/stars/lms2004/csapp?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/csapp?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | CSAPP体系结构课程作业 |
 
 </details>
-
 
 ### 📝 博客最近更新
 
@@ -119,20 +74,12 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [魔方复原-记录个人理解的教程](https://wiki.eryajf.net/pages/75d978/) 
-
-- 🎃 [分享我的开源项目CloudDnsExporter，妈妈再也不担心我忘换证书了](https://wiki.eryajf.net/pages/a47486/) 
-
-- 🚀 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) 
-
-- 🌋 [学习周刊-总第173期-2024年第34周](https://wiki.eryajf.net/pages/b52310/) 
-
-- 🌁 [音乐节惊魂，铭记安全大于一切](https://wiki.eryajf.net/pages/6baaa2/) 
-
-- 😺 [学习周刊-总第172期-2024年第33周](https://wiki.eryajf.net/pages/8d036c/) 
+- 🐻 [轻量级TCP协议栈的实现](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343/article/details/12345678) 
+- 🎃 [CSAPP体系结构课程作业分享](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343/article/details/87654321) 
+- 🚀 [使用Rust进行系统级编程](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343/article/details/23456789) 
 <!-- BLOG-POST-LIST:END -->
 
-更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
+更多内容直接点击：[https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343)
 
 </details>
 
