@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -26,5 +28,5 @@ jobs:
           git commit -m "Updated with the latest blog posts"
       - name: Push changes
         run: |
-          git remote set-url origin https://<your-username>:${{ secrets.PAT_TOKEN }}@github.com/<your-username>/<your-repository>.git
+          git remote set-url origin git@github.com:lms2004/lms2004.git
           git push origin main
