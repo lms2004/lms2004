@@ -73,6 +73,17 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
+- 🔥 [tr,cut,diff（数据处理](https://blog.csdn.net/2301_79140115/article/details/141726734) 
+
+- 💻 [sort,uniq,wc,awk命令 （数据整理](https://blog.csdn.net/2301_79140115/article/details/141723159) 
+
+- 📝 [tail 和 head命令（查看文件内容](https://blog.csdn.net/2301_79140115/article/details/141722233) 
+
+- 💯 [sed命令 &lpar;脚本处理文本](https://blog.csdn.net/2301_79140115/article/details/141721348) 
+
+- 💻 [C++入门](https://blog.csdn.net/2301_79140115/article/details/141689252) 
+
+- 💯 [CSAPP全书学习总结](https://blog.csdn.net/2301_79140115/article/details/141688625) 
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343](https://blog.csdn.net/2301_79140115?spm=1000.2115.3001.5343)
