@@ -61,7 +61,7 @@ width="800"  height="3">
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
 | [minnow](https://github.com/lms2004/minnow)            | ![](https://img.shields.io/github/stars/lms2004/minnow?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/minnow?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 轻量级TCP协议栈实现 |
-| [csapp](git@github.com:lms2004/csapp.git)              | ![](https://img.shields.io/github/stars/lms2004/csapp?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/csapp?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | CSAPP体系结构课程作业 |
+| [csapp](https://github.com/lms2004/csapp.git)              | ![](https://img.shields.io/github/stars/lms2004/csapp?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/lms2004/csapp?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | CSAPP体系结构课程作业 |
 
 </details>
 
