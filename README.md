@@ -73,17 +73,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [csapp（第四章处理器体系结构](https://blog.csdn.net/2301_79140115/article/details/141259781) 
+- 🔥 [删除有序数组中的重复项&lpar;同向指针（快慢指针&rpar;&rpar;](https://blog.csdn.net/2301_79140115/article/details/142283725) 
 
-- 💻 [系统监控和命令行环境](https://blog.csdn.net/2301_79140115/article/details/141759636) 
+- 💻 [移除元素&lpar;反向双指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142283109) 
 
-- 📝 [如何根据安装源码手动安装依赖](https://blog.csdn.net/2301_79140115/article/details/141785970) 
+- 📝 [csapp（第四章处理器体系结构](https://blog.csdn.net/2301_79140115/article/details/141259781) 
+
+- 💯 [系统监控和命令行环境](https://blog.csdn.net/2301_79140115/article/details/141759636) 
+
+- 💻 [如何根据安装源码手动安装依赖](https://blog.csdn.net/2301_79140115/article/details/141785970) 
 
 - 💯 [tr,cut,diff（数据处理](https://blog.csdn.net/2301_79140115/article/details/141726734) 
-
-- 💻 [sort,uniq,wc,awk命令 （数据整理](https://blog.csdn.net/2301_79140115/article/details/141723159) 
-
-- 💯 [tail 和 head命令（查看文件内容](https://blog.csdn.net/2301_79140115/article/details/141722233) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
