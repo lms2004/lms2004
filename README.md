@@ -73,17 +73,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Mysql实战](https://blog.csdn.net/2301_79140115/article/details/142315242) 
+- 🔥 [15. 三数之和&lpar;左右指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142346275) 
 
-- 💻 [删除有序数组中的重复项&lpar;同向指针（快慢指针&rpar;&rpar;](https://blog.csdn.net/2301_79140115/article/details/142283725) 
+- 💻 [283. 移动零&lpar;快慢指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142345746) 
 
-- 📝 [移除元素&lpar;反向双指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142283109) 
+- 📝 [Mysql实战](https://blog.csdn.net/2301_79140115/article/details/142315242) 
+
+- 💯 [删除有序数组中的重复项&lpar;同向指针（快慢指针&rpar;&rpar;](https://blog.csdn.net/2301_79140115/article/details/142283725) 
+
+- 💻 [移除元素&lpar;反向双指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142283109) 
 
 - 💯 [csapp（第四章处理器体系结构](https://blog.csdn.net/2301_79140115/article/details/141259781) 
-
-- 💻 [系统监控和命令行环境](https://blog.csdn.net/2301_79140115/article/details/141759636) 
-
-- 💯 [如何根据安装源码手动安装依赖](https://blog.csdn.net/2301_79140115/article/details/141785970) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
