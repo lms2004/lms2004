@@ -73,17 +73,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [101. 对称二叉树](https://blog.csdn.net/2301_79140115/article/details/142388374) 
+- 🔥 [102. 二叉树的层序遍历](https://blog.csdn.net/2301_79140115/article/details/142390235) 
 
-- 💻 [141. 环形链表&lpar;快慢指针 + Floyd 判圈算法&rpar;](https://blog.csdn.net/2301_79140115/article/details/142385891) 
+- 💻 [543. 二叉树的直径](https://blog.csdn.net/2301_79140115/article/details/142389098) 
 
-- 📝 [234. 回文链表](https://blog.csdn.net/2301_79140115/article/details/142384475) 
+- 📝 [101. 对称二叉树](https://blog.csdn.net/2301_79140115/article/details/142388374) 
+
+- 💯 [141. 环形链表&lpar;快慢指针 + Floyd 判圈算法&rpar;](https://blog.csdn.net/2301_79140115/article/details/142385891) 
+
+- 💻 [234. 回文链表](https://blog.csdn.net/2301_79140115/article/details/142384475) 
 
 - 💯 [42. 接雨水（左右指针）](https://blog.csdn.net/2301_79140115/article/details/142364633) 
-
-- 💻 [15. 三数之和&lpar;左右指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142346275) 
-
-- 💯 [283. 移动零&lpar;快慢指针&rpar;](https://blog.csdn.net/2301_79140115/article/details/142345746) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
