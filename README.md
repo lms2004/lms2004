@@ -73,17 +73,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [102. 二叉树的层序遍历](https://blog.csdn.net/2301_79140115/article/details/142390235) 
+- 🔥 [​jjwt 库](https://blog.csdn.net/2301_79140115/article/details/142443079) 
 
-- 💻 [543. 二叉树的直径](https://blog.csdn.net/2301_79140115/article/details/142389098) 
+- 💻 [Apache HttpComponents HttpClient](https://blog.csdn.net/2301_79140115/article/details/142443063) 
 
-- 📝 [101. 对称二叉树](https://blog.csdn.net/2301_79140115/article/details/142388374) 
+- 📝 [SDK api&lpar;oss,cos,wechat&rpar;](https://blog.csdn.net/2301_79140115/article/details/142443001) 
 
-- 💯 [141. 环形链表&lpar;快慢指针 + Floyd 判圈算法&rpar;](https://blog.csdn.net/2301_79140115/article/details/142385891) 
+- 💯 [​Lombok库](https://blog.csdn.net/2301_79140115/article/details/142442963) 
 
-- 💻 [234. 回文链表](https://blog.csdn.net/2301_79140115/article/details/142384475) 
+- 💻 [反序列化- Jackson...](https://blog.csdn.net/2301_79140115/article/details/142442893) 
 
-- 💯 [42. 接雨水（左右指针）](https://blog.csdn.net/2301_79140115/article/details/142364633) 
+- 💯 [​数据库： MyBatis-Plus](https://blog.csdn.net/2301_79140115/article/details/142442679) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
