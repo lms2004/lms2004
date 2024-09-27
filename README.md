@@ -73,17 +73,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [​jjwt 库](https://blog.csdn.net/2301_79140115/article/details/142443079) 
+- 🔥 [字符串相似度（动态规划）](https://blog.csdn.net/2301_79140115/article/details/142560415) 
+
+- 💻 [多米诺骨牌（模拟）](https://blog.csdn.net/2301_79140115/article/details/142520988) 
+
+- 📝 [病毒感染时间&lpar;字节青训营&rpar;](https://blog.csdn.net/2301_79140115/article/details/142520950) 
+
+- 💯 [​jjwt 库](https://blog.csdn.net/2301_79140115/article/details/142443079) 
 
 - 💻 [Apache HttpComponents HttpClient](https://blog.csdn.net/2301_79140115/article/details/142443063) 
 
-- 📝 [SDK api&lpar;oss,cos,wechat&rpar;](https://blog.csdn.net/2301_79140115/article/details/142443001) 
-
-- 💯 [​Lombok库](https://blog.csdn.net/2301_79140115/article/details/142442963) 
-
-- 💻 [反序列化- Jackson...](https://blog.csdn.net/2301_79140115/article/details/142442893) 
-
-- 💯 [​数据库： MyBatis-Plus](https://blog.csdn.net/2301_79140115/article/details/142442679) 
+- 💯 [SDK api&lpar;oss,cos,wechat&rpar;](https://blog.csdn.net/2301_79140115/article/details/142443001) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
