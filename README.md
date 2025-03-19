@@ -11,8 +11,9 @@ width="800"  height="3">
 
 <h2>🎓 Study</h2>
 <p style="font-size: 18px;">
-I'm currently involved in MIT's Missing Semester course.<br>
-I'm studying CS (Computer Systems: A Programmer's Perspective).
+I'm currently studying in NJU ICS course.<br>
+I'm studying NJU OS.
+I'm studying Database Management System course.
 </p>
 
 <h2>🎮 Hobbies</h2>
