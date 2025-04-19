@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [RuntimeError: CUDA error: invalid device function](https://blog.csdn.net/2301_79140115/article/details/147101112) 
+- 🔥 [CMake Error at build/_deps/glog-src/CMakeLists.txt:1 &lpar;cmake_minimum_required&rpar;:](https://blog.csdn.net/2301_79140115/article/details/147315101) 
 
-- 💻 [ubuntu24.04LTS 关闭图形界面](https://blog.csdn.net/2301_79140115/article/details/147063963) 
+- 💻 [RuntimeError: CUDA error: invalid device function](https://blog.csdn.net/2301_79140115/article/details/147101112) 
 
-- 📝 [Err http://us.archive.ubuntu.com/ubuntu mantic Release&lpar;未解决&rpar;](https://blog.csdn.net/2301_79140115/article/details/145946286) 
+- 📝 [ubuntu24.04LTS 关闭图形界面](https://blog.csdn.net/2301_79140115/article/details/147063963) 
 
-- 💯 [warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]](https://blog.csdn.net/2301_79140115/article/details/145786792) 
+- 💯 [Err http://us.archive.ubuntu.com/ubuntu mantic Release&lpar;未解决&rpar;](https://blog.csdn.net/2301_79140115/article/details/145946286) 
 
-- 💻 [找不到依赖项 ＜…＞ （Maven）](https://blog.csdn.net/2301_79140115/article/details/145785973) 
+- 💻 [warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]](https://blog.csdn.net/2301_79140115/article/details/145786792) 
 
-- 💯 [SLF4J: Defaulting to no-operation &lpar;NOP&rpar; logger implementation](https://blog.csdn.net/2301_79140115/article/details/145785937) 
+- 💯 [找不到依赖项 ＜…＞ （Maven）](https://blog.csdn.net/2301_79140115/article/details/145785973) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
