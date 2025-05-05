@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [CMake Error at build/_deps/glog-src/CMakeLists.txt:1 &lpar;cmake_minimum_required&rpar;:](https://blog.csdn.net/2301_79140115/article/details/147315101) 
+- 🔥 [TypeError: ...: incompatible function arguments. The following argument types are supported](https://blog.csdn.net/2301_79140115/article/details/147701192) 
 
-- 💻 [RuntimeError: CUDA error: invalid device function](https://blog.csdn.net/2301_79140115/article/details/147101112) 
+- 💻 [RuntimeError: CUDA error: __global__ function call is not configured](https://blog.csdn.net/2301_79140115/article/details/147701411) 
 
-- 📝 [ubuntu24.04LTS 关闭图形界面](https://blog.csdn.net/2301_79140115/article/details/147063963) 
+- 📝 [TypeError: ...: argument ‘size‘ failed to unpack the object at pos 2 with error “..“](https://blog.csdn.net/2301_79140115/article/details/147700550) 
 
-- 💯 [Err http://us.archive.ubuntu.com/ubuntu mantic Release&lpar;未解决&rpar;](https://blog.csdn.net/2301_79140115/article/details/145946286) 
+- 💯 [End User License Agreement （cuda）无法接受，只能看到手册](https://blog.csdn.net/2301_79140115/article/details/147678195) 
 
-- 💻 [warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]](https://blog.csdn.net/2301_79140115/article/details/145786792) 
+- 💻 [CUDA Error: the provided PTX was compiled with an unsupported toolchain](https://blog.csdn.net/2301_79140115/article/details/147673609) 
 
-- 💯 [找不到依赖项 ＜…＞ （Maven）](https://blog.csdn.net/2301_79140115/article/details/145785973) 
+- 💯 [CMake Error at build/_deps/glog-src/CMakeLists.txt:1 &lpar;cmake_minimum_required&rpar;:](https://blog.csdn.net/2301_79140115/article/details/147315101) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
