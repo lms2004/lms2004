@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [TypeError: ...: incompatible function arguments. The following argument types are supported](https://blog.csdn.net/2301_79140115/article/details/147701192) 
+- 🔥 [cuda_runtime_api.h: No such file or directory](https://blog.csdn.net/2301_79140115/article/details/147757788) 
 
-- 💻 [RuntimeError: CUDA error: __global__ function call is not configured](https://blog.csdn.net/2301_79140115/article/details/147701411) 
+- 💻 [TypeError: ...: incompatible function arguments. The following argument types are supported](https://blog.csdn.net/2301_79140115/article/details/147701192) 
 
-- 📝 [TypeError: ...: argument ‘size‘ failed to unpack the object at pos 2 with error “..“](https://blog.csdn.net/2301_79140115/article/details/147700550) 
+- 📝 [RuntimeError: CUDA error: __global__ function call is not configured](https://blog.csdn.net/2301_79140115/article/details/147701411) 
 
-- 💯 [End User License Agreement （cuda）无法接受，只能看到手册](https://blog.csdn.net/2301_79140115/article/details/147678195) 
+- 💯 [TypeError: ...: argument ‘size‘ failed to unpack the object at pos 2 with error “..“](https://blog.csdn.net/2301_79140115/article/details/147700550) 
 
-- 💻 [CUDA Error: the provided PTX was compiled with an unsupported toolchain](https://blog.csdn.net/2301_79140115/article/details/147673609) 
+- 💻 [End User License Agreement （cuda）无法接受，只能看到手册](https://blog.csdn.net/2301_79140115/article/details/147678195) 
 
-- 💯 [CMake Error at build/_deps/glog-src/CMakeLists.txt:1 &lpar;cmake_minimum_required&rpar;:](https://blog.csdn.net/2301_79140115/article/details/147315101) 
+- 💯 [CUDA Error: the provided PTX was compiled with an unsupported toolchain](https://blog.csdn.net/2301_79140115/article/details/147673609) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
