@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [cuda_runtime_api.h: No such file or directory](https://blog.csdn.net/2301_79140115/article/details/147757788) 
+- 🔥 [free void* 指令](https://blog.csdn.net/2301_79140115/article/details/147993496) 
 
-- 💻 [TypeError: ...: incompatible function arguments. The following argument types are supported](https://blog.csdn.net/2301_79140115/article/details/147701192) 
+- 💻 [undefined reference to CPUAllocatorSingleton::instance](https://blog.csdn.net/2301_79140115/article/details/147993179) 
 
-- 📝 [RuntimeError: CUDA error: __global__ function call is not configured](https://blog.csdn.net/2301_79140115/article/details/147701411) 
+- 📝 [undefined reference to `typeinfo for DeviceAllocator‘](https://blog.csdn.net/2301_79140115/article/details/147993103) 
 
-- 💯 [TypeError: ...: argument ‘size‘ failed to unpack the object at pos 2 with error “..“](https://blog.csdn.net/2301_79140115/article/details/147700550) 
+- 💯 [undefined reference to vtable for DeviceAllocator‘](https://blog.csdn.net/2301_79140115/article/details/147989073) 
 
-- 💻 [End User License Agreement （cuda）无法接受，只能看到手册](https://blog.csdn.net/2301_79140115/article/details/147678195) 
+- 💻 [cuda_runtime_api.h: No such file or directory](https://blog.csdn.net/2301_79140115/article/details/147757788) 
 
-- 💯 [CUDA Error: the provided PTX was compiled with an unsupported toolchain](https://blog.csdn.net/2301_79140115/article/details/147673609) 
+- 💯 [TypeError: ...: incompatible function arguments. The following argument types are supported](https://blog.csdn.net/2301_79140115/article/details/147701192) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
