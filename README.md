@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [free void* 指令](https://blog.csdn.net/2301_79140115/article/details/147993496) 
+- 🔥 [CudaMemCpy returns cudaErrorInvalidValue](https://blog.csdn.net/2301_79140115/article/details/148040072) 
 
-- 💻 [undefined reference to CPUAllocatorSingleton::instance](https://blog.csdn.net/2301_79140115/article/details/147993179) 
+- 💻 [namespace “mybase“ has no member “DataType](https://blog.csdn.net/2301_79140115/article/details/148036357) 
 
-- 📝 [undefined reference to `typeinfo for DeviceAllocator‘](https://blog.csdn.net/2301_79140115/article/details/147993103) 
+- 📝 [free void* 指令](https://blog.csdn.net/2301_79140115/article/details/147993496) 
+
+- 💯 [undefined reference to CPUAllocatorSingleton::instance](https://blog.csdn.net/2301_79140115/article/details/147993179) 
+
+- 💻 [undefined reference to `typeinfo for DeviceAllocator‘](https://blog.csdn.net/2301_79140115/article/details/147993103) 
 
 - 💯 [undefined reference to vtable for DeviceAllocator‘](https://blog.csdn.net/2301_79140115/article/details/147989073) 
-
-- 💻 [cuda_runtime_api.h: No such file or directory](https://blog.csdn.net/2301_79140115/article/details/147757788) 
-
-- 💯 [TypeError: ...: incompatible function arguments. The following argument types are supported](https://blog.csdn.net/2301_79140115/article/details/147701192) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
