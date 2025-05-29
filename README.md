@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Gtest 不识别测试程序（眼睛问题）](https://blog.csdn.net/2301_79140115/article/details/148151947) 
+- 🔥 [ERR AUTH ＜password＞ called without any password configured for the default user. Are you sure your c](https://blog.csdn.net/2301_79140115/article/details/148293015) 
+
+- 💻 [failed to bind host port for 0.0.0.0:3306](https://blog.csdn.net/2301_79140115/article/details/148292841) 
+
+- 📝 [java: java.lang.ExceptionInInitializerErrorcom.sun.tools.javac.code.TypeTag :: UNKNOWN](https://blog.csdn.net/2301_79140115/article/details/148290882) 
+
+- 💯 [Gtest 不识别测试程序（眼睛问题）](https://blog.csdn.net/2301_79140115/article/details/148151947) 
 
 - 💻 [vscode连接WSL卡住](https://blog.csdn.net/2301_79140115/article/details/148125359) 
 
-- 📝 [Temporary failure in name resolution](https://blog.csdn.net/2301_79140115/article/details/148122882) 
-
-- 💯 [CudaMemCpy returns cudaErrorInvalidValue](https://blog.csdn.net/2301_79140115/article/details/148040072) 
-
-- 💻 [namespace “mybase“ has no member “DataType](https://blog.csdn.net/2301_79140115/article/details/148036357) 
-
-- 💯 [free void* 指令](https://blog.csdn.net/2301_79140115/article/details/147993496) 
+- 💯 [Temporary failure in name resolution](https://blog.csdn.net/2301_79140115/article/details/148122882) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
