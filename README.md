@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [ERR AUTH ＜password＞ called without any password configured for the default user. Are you sure your c](https://blog.csdn.net/2301_79140115/article/details/148293015) 
+- 🔥 [Redis 插入中文乱码键](https://blog.csdn.net/2301_79140115/article/details/148341503) 
+
+- 💻 [wsl2 docker重启后没了](https://blog.csdn.net/2301_79140115/article/details/148316958) 
+
+- 📝 [lost connection to mysql server at ‘reading initial communication packet‘](https://blog.csdn.net/2301_79140115/article/details/148315508) 
+
+- 💯 [ERR AUTH ＜password＞ called without any password configured for the default user. Are you sure your c](https://blog.csdn.net/2301_79140115/article/details/148293015) 
 
 - 💻 [failed to bind host port for 0.0.0.0:3306](https://blog.csdn.net/2301_79140115/article/details/148292841) 
 
-- 📝 [java: java.lang.ExceptionInInitializerErrorcom.sun.tools.javac.code.TypeTag :: UNKNOWN](https://blog.csdn.net/2301_79140115/article/details/148290882) 
-
-- 💯 [Gtest 不识别测试程序（眼睛问题）](https://blog.csdn.net/2301_79140115/article/details/148151947) 
-
-- 💻 [vscode连接WSL卡住](https://blog.csdn.net/2301_79140115/article/details/148125359) 
-
-- 💯 [Temporary failure in name resolution](https://blog.csdn.net/2301_79140115/article/details/148122882) 
+- 💯 [java: java.lang.ExceptionInInitializerErrorcom.sun.tools.javac.code.TypeTag :: UNKNOWN](https://blog.csdn.net/2301_79140115/article/details/148290882) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
