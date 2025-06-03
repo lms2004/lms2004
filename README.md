@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [SGLang 无法正常部署](https://blog.csdn.net/2301_79140115/article/details/148357847) 
+- 🔥 [Unable to generate pydantic-core schema for ＜class ‘starlette.requests.Request‘＞. Set arbitrary_type](https://blog.csdn.net/2301_79140115/article/details/148388488) 
 
-- 💻 [Redis 插入中文乱码键](https://blog.csdn.net/2301_79140115/article/details/148341503) 
+- 💻 [OSError: We couldn‘t connect to ‘https://huggingface.co‘ to load the files&lpar;加载 llava &rpar;](https://blog.csdn.net/2301_79140115/article/details/148382336) 
 
-- 📝 [wsl2 docker重启后没了](https://blog.csdn.net/2301_79140115/article/details/148316958) 
+- 📝 [ValueError: Cannot find corresponding multimodal processor registered in sglang for model type `clip](https://blog.csdn.net/2301_79140115/article/details/148382123) 
 
-- 💯 [lost connection to mysql server at ‘reading initial communication packet‘](https://blog.csdn.net/2301_79140115/article/details/148315508) 
+- 💯 [（SGLang）TypeError: argument of type ‘NoneType‘ is not iterable](https://blog.csdn.net/2301_79140115/article/details/148382035) 
 
-- 💻 [ERR AUTH ＜password＞ called without any password configured for the default user. Are you sure your c](https://blog.csdn.net/2301_79140115/article/details/148293015) 
+- 💻 [ValueError: No available memory for the cache blocks. Try increasing `gpu_memory_utilization` &lpar;vllm&rpar;](https://blog.csdn.net/2301_79140115/article/details/148371589) 
 
-- 💯 [failed to bind host port for 0.0.0.0:3306](https://blog.csdn.net/2301_79140115/article/details/148292841) 
+- 💯 [Exception: Capture CUDA graph failed: CUDA error: out of memory](https://blog.csdn.net/2301_79140115/article/details/148364639) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
