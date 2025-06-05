@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Unable to generate pydantic-core schema for ＜class ‘starlette.requests.Request‘＞. Set arbitrary_type](https://blog.csdn.net/2301_79140115/article/details/148388488) 
+- 🔥 [从 Windows 中查找 WSL2 机器的 IP 地址](https://blog.csdn.net/2301_79140115/article/details/148422109) 
 
-- 💻 [OSError: We couldn‘t connect to ‘https://huggingface.co‘ to load the files&lpar;加载 llava &rpar;](https://blog.csdn.net/2301_79140115/article/details/148382336) 
+- 💻 [Unable to generate pydantic-core schema for ＜class ‘starlette.requests.Request‘＞. Set arbitrary_type](https://blog.csdn.net/2301_79140115/article/details/148388488) 
 
-- 📝 [ValueError: Cannot find corresponding multimodal processor registered in sglang for model type `clip](https://blog.csdn.net/2301_79140115/article/details/148382123) 
+- 📝 [OSError: We couldn‘t connect to ‘https://huggingface.co‘ to load the files&lpar;加载 llava &rpar;](https://blog.csdn.net/2301_79140115/article/details/148382336) 
 
-- 💯 [（SGLang）TypeError: argument of type ‘NoneType‘ is not iterable](https://blog.csdn.net/2301_79140115/article/details/148382035) 
+- 💯 [ValueError: Cannot find corresponding multimodal processor registered in sglang for model type `clip](https://blog.csdn.net/2301_79140115/article/details/148382123) 
 
-- 💻 [ValueError: No available memory for the cache blocks. Try increasing `gpu_memory_utilization` &lpar;vllm&rpar;](https://blog.csdn.net/2301_79140115/article/details/148371589) 
+- 💻 [（SGLang）TypeError: argument of type ‘NoneType‘ is not iterable](https://blog.csdn.net/2301_79140115/article/details/148382035) 
 
-- 💯 [Exception: Capture CUDA graph failed: CUDA error: out of memory](https://blog.csdn.net/2301_79140115/article/details/148364639) 
+- 💯 [ValueError: No available memory for the cache blocks. Try increasing `gpu_memory_utilization` &lpar;vllm&rpar;](https://blog.csdn.net/2301_79140115/article/details/148371589) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
