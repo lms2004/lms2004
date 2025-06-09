@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [配置 MySQL my.ini 解决中文乱码](https://blog.csdn.net/2301_79140115/article/details/148090691) 
+- 🔥 [Unable to make field long java.nio.Buffer.address accessible:](https://blog.csdn.net/2301_79140115/article/details/148510928) 
 
-- 💻 [World-writable config file /etc/mysql/mysql.conf.d/my.cnf is ignored](https://blog.csdn.net/2301_79140115/article/details/148461598) 
+- 💻 [java 程序包不存在](https://blog.csdn.net/2301_79140115/article/details/148510203) 
 
-- 📝 [ERROR: No matching distribution found for ipython==9.1.0](https://blog.csdn.net/2301_79140115/article/details/148449327) 
+- 📝 [rocketmq log 存放位置](https://blog.csdn.net/2301_79140115/article/details/148502972) 
 
-- 💯 [从 Windows 中查找 WSL2 机器的 IP 地址](https://blog.csdn.net/2301_79140115/article/details/148422109) 
+- 💯 [Send [xxx] times, still failed, cost [xxx]ms, Topic: xxx, BrokersSent ...](https://blog.csdn.net/2301_79140115/article/details/148502551) 
 
-- 💻 [Unable to generate pydantic-core schema for ＜class ‘starlette.requests.Request‘＞. Set arbitrary_type](https://blog.csdn.net/2301_79140115/article/details/148388488) 
+- 💻 [natapp 内网穿透失败](https://blog.csdn.net/2301_79140115/article/details/148502099) 
 
-- 💯 [OSError: We couldn‘t connect to ‘https://huggingface.co‘ to load the files&lpar;加载 llava &rpar;](https://blog.csdn.net/2301_79140115/article/details/148382336) 
+- 💯 [sendDefaultImpl call timeout（rocketmq）](https://blog.csdn.net/2301_79140115/article/details/148501599) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
