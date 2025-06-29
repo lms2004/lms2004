@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [matplotlib无法显示中文字体](https://blog.csdn.net/2301_79140115/article/details/148923701) 
+- 🔥 [ImportError: cannot import name ‘Cache‘ from ‘transformers‘ &lpar;/usr/local/lib/python3.11/dist-packages](https://blog.csdn.net/2301_79140115/article/details/148953335) 
+
+- 💻 [huggingface 下载模型](https://blog.csdn.net/2301_79140115/article/details/148950501) 
+
+- 📝 [IDA python 不存在](https://blog.csdn.net/2301_79140115/article/details/148949250) 
+
+- 💯 [matplotlib无法显示中文字体](https://blog.csdn.net/2301_79140115/article/details/148923701) 
 
 - 💻 [MySQL: Invalid use of group function](https://blog.csdn.net/2301_79140115/article/details/148775811) 
 
-- 📝 [ConnectionError: Couldn‘t reach ‘neil-code/dialogsum-test‘ on the Hub &lpar;LocalEntryNotFoundError&rpar;](https://blog.csdn.net/2301_79140115/article/details/148563006) 
-
-- 💯 [Unable to make field long java.nio.Buffer.address accessible:](https://blog.csdn.net/2301_79140115/article/details/148510928) 
-
-- 💻 [java 程序包不存在](https://blog.csdn.net/2301_79140115/article/details/148510203) 
-
-- 💯 [rocketmq log 存放位置](https://blog.csdn.net/2301_79140115/article/details/148502972) 
+- 💯 [ConnectionError: Couldn‘t reach ‘neil-code/dialogsum-test‘ on the Hub &lpar;LocalEntryNotFoundError&rpar;](https://blog.csdn.net/2301_79140115/article/details/148563006) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
