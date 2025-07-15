@@ -74,17 +74,17 @@ I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [python 在运行时没有加载修改后的版本](https://blog.csdn.net/2301_79140115/article/details/149233649) 
+- 🔥 [Relocations in generic ELF &lpar;EM: 40&rpar;](https://blog.csdn.net/2301_79140115/article/details/149341745) 
 
-- 💻 [ImportError: cannot import name ‘Cache‘ from ‘transformers‘ &lpar;/usr/local/lib/python3.11/dist-packages](https://blog.csdn.net/2301_79140115/article/details/148953335) 
+- 💻 [could not handshake: error in the pull function.](https://blog.csdn.net/2301_79140115/article/details/149330300) 
 
-- 📝 [huggingface 下载模型](https://blog.csdn.net/2301_79140115/article/details/148950501) 
+- 📝 [python 在运行时没有加载修改后的版本](https://blog.csdn.net/2301_79140115/article/details/149233649) 
+
+- 💯 [ImportError: cannot import name ‘Cache‘ from ‘transformers‘ &lpar;/usr/local/lib/python3.11/dist-packages](https://blog.csdn.net/2301_79140115/article/details/148953335) 
+
+- 💻 [huggingface 下载模型](https://blog.csdn.net/2301_79140115/article/details/148950501) 
 
 - 💯 [IDA python 不存在](https://blog.csdn.net/2301_79140115/article/details/148949250) 
-
-- 💻 [matplotlib无法显示中文字体](https://blog.csdn.net/2301_79140115/article/details/148923701) 
-
-- 💯 [MySQL: Invalid use of group function](https://blog.csdn.net/2301_79140115/article/details/148775811) 
 <!-- BLOG-POST-LIST:END -->
 
 More Details：[https://blog.csdn.net/2301_79140115](https://blog.csdn.net/2301_79140115)
