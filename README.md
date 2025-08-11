@@ -11,9 +11,8 @@ width="800"  height="3">
 
 <h2>🎓 Study</h2>
 <p style="font-size: 18px;">
-I'm currently studying in NJU ICS course.<br>
-I'm studying NJU OS.
-I'm studying Database Management System course.
+I'm currently studying the NJU ICS course, NJU OS, and the Database Management System course.<br>
+I'm also learning advanced AI topics such as model fine-tuning (SFT), reinforcement learning (RL), multi-agent systems, and AI infrastructure.
 </p>
 
 <h2>🎮 Hobbies</h2>
