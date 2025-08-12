@@ -11,16 +11,15 @@ width="800"  height="3">
 
 <h2>🎓 Study</h2>
 <p style="font-size: 18px;">
-I'm currently studying the NJU ICS course, NJU OS, and the Database Management System course.<br>
-I'm also learning advanced AI topics such as model fine-tuning (SFT), reinforcement learning (RL), multi-agent systems, and AI infrastructure.
+I'm currently studying the NJU ICS courses, including NJU OS and Database Management System.<br>
+I'm also learning advanced AI topics such as model fine-tuning (SFT), reinforcement learning (RL), multi-agent systems, and AI infrastructure.<br><br>
+
+<strong>Key Highlights:</strong><br>
+• <b>LLM Application Development Frameworks:</b> Familiar with LangChain and LangGraph, skilled in designing and developing complex AI Agents and RAG systems.<br>
+• <b>Model Fine-tuning and Alignment Techniques:</b> Experienced with efficient parameter tuning methods such as SFT, LoRA, QLoRA; knowledgeable about advanced alignment algorithms including DPO and GRPO.<br>
+• <b>High-Performance Computing:</b> Proficient in C++ and CUDA programming; experienced in deploying models with inference frameworks like TensorRT, VLLM, and SGLang.
 </p>
 
-<h2>🎮 Hobbies</h2>
-<p style="font-size: 18px;">
-I am currently playing games like PUBG, Battlefield, and Black Myth: Wukong.<br>
-Add me as a Steam friend: <a href="https://steamcommunity.com/profiles/76561199515626584/">Steam Profile</a>.<br>
-I also enjoy sports: ping pong, badminton, billiards, basketball, and more.
-</p>
 
 
 ### 🤗 Welcome
