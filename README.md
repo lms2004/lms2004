@@ -17,10 +17,11 @@ I’m passionate about deepening my understanding of multi-agent collaboration a
 
 <h2>🎓 Study</h2>
 <p style="font-size: 18px;">
-• <b>LLM Application Development Frameworks:</b> Familiar with LangChain and LangGraph, skilled in designing and developing complex AI Agents and RAG systems.<br>
-• <b>Model Fine-tuning and Alignment Techniques:</b> Experienced with efficient parameter tuning methods such as SFT, LoRA, QLoRA; knowledgeable about advanced alignment algorithms including DPO and GRPO.<br>
-• <b>High-Performance Computing:</b> Proficient in C++ and CUDA programming; experienced in deploying models with inference frameworks like TensorRT, VLLM, and SGLang.
+• <b>LLM Application Development Frameworks:</b> Currently familiarizing myself with LangChain and LangGraph, and progressively building skills in designing and developing complex AI Agents and RAG systems.<br>
+• <b>Model Fine-tuning and Alignment Techniques:</b> Actively learning efficient parameter tuning methods such as SFT, LoRA, and QLoRA, while exploring advanced alignment algorithms including DPO and GRPO.<br>
+• <b>High-Performance Computing:</b> Developing proficiency in C++ and CUDA programming, and gaining hands-on experience with deploying models using inference frameworks like TensorRT, VLLM, and SGLang.
 </p>
+
 
 
 
